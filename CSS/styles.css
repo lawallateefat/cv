@@ -1,0 +1,116 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: Merriweather, serif;
+  background-color: #E4F9F5;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: Sacramento, cursive;
+  font-size: 6rem;
+  padding-top: 100px;
+  line-height: 2;
+  margin: 0px;
+}
+h2 {
+  color: #66BFBF;
+  font-size: 2em;
+  font-weight: normal;
+}
+h3 {
+  color: #11999E;
+}
+
+p {
+  font-size: 1em;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+
+.top-container {
+  background-color: #E4F9F5;
+}
+.middle-container {
+  margin-top: 50px;
+}
+
+.Oyin-png {
+  height: 200px;
+  width: 200px;
+  padding-top: 50px;
+}
+.first-skill {
+  height: 150px;
+  width: 150px;
+  float: left;
+  margin-right: 30px;
+}
+.second-skill {
+  height: 150px;
+  width: 150px;
+  float: right;
+  margin-left: 30px;
+}
+.para-1 {
+  clear: left;
+}
+.para-2 {
+  clear: right;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 50px;
+}
+hr{
+  background-color: white;
+  border-style: none;
+  border-top: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+ }
+ .BUTTON {
+   background: #3D94F6;
+   background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -webkit-gradient(to bottom, #3D94F6, #1E62D0);
+   -webkit-border-radius: 30px;
+   -moz-border-radius: 30px;
+   border-radius: 30px;
+   color: #FFFFFF;
+   font-family: Times New Roman;
+   font-size: 21px;
+   font-weight: 100;
+   padding: 15px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 14px 18px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+.bottom-container {
+  background-color: #66BFBF;
+  height: 100px;
+  padding-top: 50px;
+  width: 1350px;
+}
+.footer-link {
+  margin: 15px;
+  color: #11999E;
+}
+.text {
+  color: #EAF6F6;
+}
